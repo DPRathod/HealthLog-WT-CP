@@ -1,0 +1,29 @@
+.nav{
+    display: flex;
+    height: 50px;
+    background-color: rgb(78, 76, 88);
+    align-items: center;
+    justify-content:space-between;
+}
+
+.logoText{
+    font-size: 20px;
+    font-weight: 900;
+    margin-left: 20px;
+    color: white;
+
+}
+
+.logoutButton{
+    margin-right: 20px;
+}
+
+.logout{
+    padding: 8px;
+    background-color: rgb(112, 112, 227);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
